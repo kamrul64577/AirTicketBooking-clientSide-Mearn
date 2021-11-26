@@ -1,0 +1,14 @@
+.login{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: wheat;
+}
+.signin-btn{
+    padding: 15px 50px;
+    border-radius: 20px;
+    background: black;
+    color: white;
+    border: none;
+}
